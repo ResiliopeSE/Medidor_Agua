@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "74212316169",
+    "firebase_url": "https://arduino-522ec-default-rtdb.firebaseio.com",
+    "project_id": "arduino-522ec",
+    "storage_bucket": "arduino-522ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74212316169:android:9721a02d67c15547b554d8",
+        "android_client_info": {
+          "package_name": "com.example.medidoragua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxju7DqQfAHpjJ2wtwFaQ5FbGf6Ij9go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74212316169:android:11a04df20c079b7fb554d8",
+        "android_client_info": {
+          "package_name": "com.example.medidordeagua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxju7DqQfAHpjJ2wtwFaQ5FbGf6Ij9go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
